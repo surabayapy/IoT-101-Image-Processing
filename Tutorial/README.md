@@ -1,1 +1,1 @@
-Setelah anda berhasil menginstall anaconda, secara otomatis Jupyter Notebook akan terinstall
+Setelah anda berhasil menginstall anaconda, secara otomatis Jupyter Notebook akan terinstall, tutorial IoT 101 Image Processing akan menggunakan Jupyter Notebook sebagai alat pembelajaran yang akan dilakukan
