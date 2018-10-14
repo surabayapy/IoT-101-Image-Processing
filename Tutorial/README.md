@@ -1,0 +1,1 @@
+Setelah anda berhasil menginstall anaconda, secara otomatis Jupyter Notebook akan terinstall
